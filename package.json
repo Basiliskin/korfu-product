@@ -1,0 +1,14 @@
+{
+    "name": "korfu-product",
+    "version": "1.0.1",
+    "description": "Static product data",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Basiliskin/korfu-product.git"
+    },
+    "keywords": ["npm"],
+    "author": "Dimitry Katz",
+    "license": "MIT",
+    "homepage": "https://github.com/Basiliskin/korfu-product#readme"
+  }
