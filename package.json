@@ -1,6 +1,6 @@
 {
     "name": "korfu-product",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Static product data",
     "main": "index.js",
     "repository": {
